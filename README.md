@@ -1,5 +1,4 @@
-[Readme 2.md](https://github.com/user-attachments/files/31027999/Readme.2.md)
-# LAPD-Crime-Analysis-Dashboard# LAPD Crime Analysis Dashboard
+# LAPD-Crime-Analysis-Dashboard
 
 **Analyzing 3 years of LAPD crime data (2020–2022) to uncover crime patterns, hotspots, and victim insights across Los Angeles**
 
@@ -36,7 +35,7 @@ KPI overview: total incidents, unresolved rate, top crime type, top area, and ar
 ### Page 2 — Crime Patterns
 Breakdown by premise type, citywide crime distribution on a map, crime by area, and peak crime hours/days.
 
-![Crime Patterns Dashboard](visuals/dashboard-crime-patterns.png)
+![Crime Patterns Dashboard](visuals/dashboard-crime-pattern.png)
 
 ### Page 3 — Victim & Weapon Insights
 Victim sex, age, and descent distribution, along with weapon involvement and usage breakdown.
@@ -73,7 +72,7 @@ Victim sex, age, and descent distribution, along with weapon involvement and usa
 ├── LAPD_crime_data.pbix      # Power BI dashboard file
 ├── visuals/                  # Dashboard screenshots
 │   ├── dashboard-home.png
-│   ├── dashboard-crime-patterns.png
+│   ├── dashboard-crime-pattern.png
 │   └── dashboard-victim-weapon.png
 └── README.md
 ```
